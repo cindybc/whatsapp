@@ -1,0 +1,55 @@
+
+nav{
+	height: 15vh;
+    background-color: #069a87;
+}
+.col.l4{
+	padding: 15px;
+}
+.cuadro{
+	background-color: #fff;
+}
+.chatActual{
+	background-color: whitesmoke;
+}
+img{
+	width: 10%;
+}
+
+.conversacion{
+	display: flex;
+    margin-top: -78px;
+}
+
+.col.l8{
+	background-color: white;
+}
+
+.chat{
+	padding: 10px;
+}
+.mensaje{
+	background-image: url(image/chat-panel-bg.png);
+	height: 63vh;
+	padding: 10px;
+}
+#msn{
+    width: 90%;
+}
+#btn-micro i{
+	width: 5%;
+	font-size: 30px;
+}
+
+.pMensaje{
+	display: block;
+	padding: 3px;
+	margin-top: 3px;
+    background-color: #9ce29f;
+    border-radius: 30%;
+    text-align: center;
+}
+
+a{
+	color: #716e6e;
+}
